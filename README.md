@@ -6,7 +6,7 @@
 <p align='left'>For the next 30 weeks (from 1/11/22) I will be actively enhancing my web development skills and would love for you to follow my journey -- In addition to that, I'm also a Salesforce Technical Support Consultant @ MTX Group Inc. So while working on my web development skills, I'll also continue contributing to the Salesforce ecosystem.</p>
 
 ## Skills: 
-JavaScript | React | Node.js | Express | MongoDB | RESTful API's | PostgreSQL | Python | Salesforce | AWS | Web3.0 Enthusiast
+JavaScript | React | Node.js | Express | MongoDB | RESTful API's | PostgreSQL | Salesforce 
 
 <p align='left'> You can view my resume <a href='https://docs.google.com/document/d/e/2PACX-1vTlaxAn9Il6lEEIHEvUPfZxu6NnTgZwlGk7R-WW-oKAzec2TohRnKaIvAxXv6PGzdoQb4WliKC0SE7o/pub ' target=_blank><u>here</u>.</a></p>
 
