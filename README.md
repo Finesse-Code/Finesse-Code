@@ -13,8 +13,3 @@ JavaScript | React | Node.js | Express | MongoDB | RESTful API's | PostgreSQL | 
 [![Gmail Badge](https://img.shields.io/badge/-tairiabridges@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tairiabridges@gmail.com)](mailto:tairiabridges@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-tairiabridges-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tairiabridges/)](https://www.linkedin.com/in/tairiabridges/) [![Github Badge](https://img.shields.io/badge/-FinesseCode-grey?style=flat&logo=github&logoColor=white&link=https://github.com/FinesseCode/)](https://www.github.com/FinesseCode/) [![Twitter Badge](https://img.shields.io/badge/-@Boats_N_Planes-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@Boats_N_Planes/)](https://www.twitter.com/@Boats_N_Planes/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://tairia-portfolio-developer-edition.na163.force.com/salesforce/s//)](https://tairia-portfolio-developer-edition.na163.force.com/salesforce/s//)
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=FinesseCode alt=FinesseCode /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=FinesseCode&show_icons=true&include_all_commits=true)](https://github.com/FinesseCode/github-readme-stats)
-
