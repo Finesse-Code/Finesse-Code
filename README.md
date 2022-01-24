@@ -1,4 +1,6 @@
-### 👋🏿 Whaddup Whaddup! �
+### 👋🏿 Hello there, Whaddup Whaddup! 
+
+I'm Tairia Bridges. and I'm a Fullstack Web Developer @ 100Devs. 
 
 <!--
 **Finesse-Code/Finesse-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
