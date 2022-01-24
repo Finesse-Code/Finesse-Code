@@ -1,4 +1,4 @@
-###  👋🏿  Hey, what's up, helllllloooo!😎 
+###  
 
 I'm **Tairia Bridges** and I'm a Fullstack Web Developer @ **100Devs**
 
