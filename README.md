@@ -1,4 +1,4 @@
-###  
+# Tairia Bridges  
 
 ![Profile views](https://gpvc.arturio.dev/Finesse-Code)  
 
