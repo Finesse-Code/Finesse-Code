@@ -7,9 +7,6 @@ I'm **Tairia Bridges** and I'm a Fullstack Web Developer @ **100Devs**
 
 Skills: JavaScript | React | Node.js | Express | MongoDB | RESTful API's | PostgreSQL
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finesse-Code)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Finesse-Code&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Finesse-Code)  
