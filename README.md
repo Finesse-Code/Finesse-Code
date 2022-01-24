@@ -1,7 +1,5 @@
 ###  
 
-I'm **Tairia Bridges** and I'm a Fullstack Web Developer @ **100Devs**
-
 ![Profile views](https://gpvc.arturio.dev/Finesse-Code)  
 
 Skills: JavaScript | React | Node.js | Express | MongoDB | RESTful API's | PostgreSQL | Python | Salesforce | AWS | Web3.0 Enthusiast
