@@ -6,7 +6,7 @@
 <p align='left'>For the next 30 weeks (from 1/11/22) I will be actively enhancing my web development skills and would love for you to follow my journey -- In addition to that, I'm also a Salesforce Technical Support Consultant @ MTX Group Inc. So while working on my web development skills, I'll also continue contributing to the Salesforce ecosystem.</p>
 
 ## Skills: 
-HTML | CSS | Email Development | Landing Pages | Static Websites | UX/UI | Salesforce Service Cloud | Salesforce Sales Cloud | Salesforce Experience Sites
+HTML5 | CSS | Email Development | Landing Pages | Static Websites | UX/UI | Salesforce Service Cloud | Salesforce Sales Cloud | Salesforce Experience Sites
 
 <p align='left'> You can view my Salesforce resume <a href='https://docs.google.com/document/d/e/2PACX-1vTlaxAn9Il6lEEIHEvUPfZxu6NnTgZwlGk7R-WW-oKAzec2TohRnKaIvAxXv6PGzdoQb4WliKC0SE7o/pub ' target=_blank><u>here</u>.</a></p>
 
