@@ -1,7 +1,7 @@
 
 # Tairia Bridges
 
-## Hello... I'm **Tairia Bridges** and I'm a Fullstack Web Developer @ 100Devs. 
+## Hello... I'm **Tairia** and I'm a Fullstack Web Developer @ 100Devs. 
 
 <p align='left'>Fullstack Web Developer</p>
 
