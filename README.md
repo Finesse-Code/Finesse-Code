@@ -3,7 +3,7 @@
 
 ## Hello... I'm **Tairia Bridges** and I'm a Fullstack Web Developer @ 100Devs. 
 
-<p align='left'>For the next 30 weeks (from 1/11/22) I will be actively enhancing my web development skills and would love for you to follow my journey -- In addition to that, I'm also a Salesforce Technical Support Consultant @ MTX Group Inc. So while working on my web development skills, I'll also continue contributing to the Salesforce ecosystem.</p>
+<p align='left'>Fullstack Web Developer</p>
 
 ## Skills: 
 HTML5 | CSS | Email Development | Landing Pages | Static Websites | UX/UI | Salesforce Service Cloud | Salesforce Sales Cloud | Salesforce Experience Sites
