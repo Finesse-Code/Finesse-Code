@@ -3,7 +3,7 @@
 
 ## Product Engineering Associate @ Accenture + Software Engineer @ 100Devs 
 
-<p align='left'>Fullstack Web Developer</p>
+<p align='left'>Fullstack Web Development</p>
 
 ## Skills: 
 JavaScript | React | Node | Express | MongoDB | User Experience Design | Salesforce Service Cloud | Salesforce Experience Sites | Salesforce Lightning Web Components
