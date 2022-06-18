@@ -1,12 +1,12 @@
 
 # Tairia Bridges
 
-## Hello... I'm **Tairia** and I'm a Software Engineer @ 100Devs. 
+## Hello... I'm **Tairia** and I'm a Product Engineering Associate @ Accenture + Software Engineer @ 100Devs. 
 
 <p align='left'>Fullstack Web Developer</p>
 
 ## Skills: 
-HTML5 | CSS | JavaScript | React | Node | Express | MongoDB | UX/ User Experience | Salesforce Service Cloud | Salesforce Experience Sites
+JavaScript | React | Node | Express | MongoDB | User Experience Design | Salesforce Service Cloud | Salesforce Experience Sites | Salesforce Lightning Web Components
 
 <p align='left'> You can view my Salesforce resume <a href='https://docs.google.com/document/d/e/2PACX-1vTlaxAn9Il6lEEIHEvUPfZxu6NnTgZwlGk7R-WW-oKAzec2TohRnKaIvAxXv6PGzdoQb4WliKC0SE7o/pub ' target=_blank><u>here</u>.</a></p>
 
