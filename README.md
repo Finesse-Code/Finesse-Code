@@ -1,7 +1,7 @@
 
 # Tairia Bridges
 
-## Hello... I'm **Tairia** and I'm a Product Engineering Associate @ Accenture + Software Engineer @ 100Devs. 
+## Product Engineering Associate @ Accenture + Software Engineer @ 100Devs 
 
 <p align='left'>Fullstack Web Developer</p>
 
